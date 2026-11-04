@@ -1,0 +1,2 @@
+promedios=[]
+calificasiones=int
